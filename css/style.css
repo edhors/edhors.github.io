@@ -1,0 +1,13 @@
+.table {
+    display:table;
+    border-spacing: 20px;
+    background-color: white;
+}
+
+.row {
+    display: table-row;
+}
+
+.cell {
+    display: table-cell;
+}
